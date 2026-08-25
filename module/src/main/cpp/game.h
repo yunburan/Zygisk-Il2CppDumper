@@ -5,6 +5,6 @@
 #ifndef ZYGISK_IL2CPPDUMPER_GAME_H
 #define ZYGISK_IL2CPPDUMPER_GAME_H
 
-#define com.sofunny.Sausage "com.game.packagename"
+#define com.sofunny.Sausage "com.sofunny.Sausage"
 
 #endif //ZYGISK_IL2CPPDUMPER_GAME_H
